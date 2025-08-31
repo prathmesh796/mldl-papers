@@ -4,4 +4,4 @@ This repo is a collection of all the research papers on ML/DL that I have implem
 ## Count of Papers - 1
 ---
 ## Checklist
-- [] Alexnet
+- [ ] Alexnet
